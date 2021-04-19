@@ -4,7 +4,7 @@ I'm Rodrigo, a MSc student at UFF and a member of [GIECAR](https://github.com/gi
 
 ## My projects
 
-* [PFG] (https://github.com/rmotadutra/PFG), final graduation project.
+* [PFG](https://github.com/rmotadutra/PFG), final graduation project.
 
 ## Collaborations
 
