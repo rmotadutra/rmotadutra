@@ -5,7 +5,7 @@ I'm Rodrigo, a MSc student at UFF and a member of [GIECAR](https://github.com/gi
 ## My projects
 
 * [PFG](https://github.com/rmotadutra/PFG) - my final graduation project.
-* [WellLogSeries](https://github.com/rmotadutra/welllogseries) - a series of python notebooks to work on well logs.
+* [Well Log Series](https://github.com/rmotadutra/welllogseries) - a series of python notebooks to work on well logs.
 
 ## Collaborations
 
