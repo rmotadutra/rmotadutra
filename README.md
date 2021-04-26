@@ -5,11 +5,11 @@ I'm Rodrigo, a MSc student at UFF and member of [GIECAR](https://github.com/giec
 ## My projects
 
 * [PFG](https://github.com/rmotadutra/PFG) - my final graduation project.
-* [Well Log Series](https://github.com/rmotadutra/welllogseries) - a series of python notebooks to work on well logs.
+* [WellLogSeries](https://github.com/rmotadutra/welllogseries) - a series of python notebooks to work on well logs.
 
 ## Collaborations
 
-* [PythonParaGeofisicos](https://github.com/giecaruff/PythonParaGeofisicos), a python course for geophysicists.
+* [PythonParaGeofisicos](https://github.com/giecaruff/PythonParaGeofisicos) - a python course for geophysicists.
 
 ## Technologies
 
