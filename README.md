@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-I'm Rodrigo, a MSc student at UFF and member of [GIECAR](https://github.com/giecaruff).
+I'm Rodrigo Dutra, a MSc student at UFF and member of [GIECAR](https://github.com/giecaruff).
 
 ## My projects
 
