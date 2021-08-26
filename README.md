@@ -6,6 +6,7 @@ I'm Rodrigo Dutra, a MSc student at UFF and member of [GIECAR](https://github.co
 
 * [PFG](https://github.com/rmotadutra/PFG_2020) - my final graduation project.
 * [WellLogSeries](https://github.com/rmotadutra/welllogseries) - a series of python notebooks to work on well logs.
+* [Covid-Dashboard](https://github.com/rmotadutra/covid-dashboard) - a covid dashboard project to learn more about Vue3.
 
 ## Collaborations
 
