@@ -1,18 +1,3 @@
-# Hello, world! 👋
-
-I'm Rodrigo Dutra, a MSc student at UFF and member of [GIECAR](https://github.com/giecaruff).
-
-## My projects
-
-* [PFG](https://github.com/rmotadutra/PFG_2020) - my final graduation project.
-* [WellLogSeries](https://github.com/rmotadutra/welllogseries) - a series of python notebooks to work on well logs.
-* [Covid-Dashboard](https://github.com/rmotadutra/covid-dashboard) - a covid dashboard project to learn more about Vue3.
-
-## Collaborations
-
-* [PythonParaGeofisicos](https://github.com/giecaruff/PythonParaGeofisicos) - a python course for geophysicists.
-* [LAS2Plot](https://github.com/giecaruff/LAS2Plot) - a logplot generator from a Log ASCII Standard (LAS) 2.0 file.
-
 ## Technologies
 
 <div>
